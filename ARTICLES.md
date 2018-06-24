@@ -1,3 +1,4 @@
+<div style="text-align: right">
 # articles
 # الجزء الرابع - الدرس الاول: ما هي إدارة الإصدارات؟
 
@@ -91,3 +92,4 @@ https://youtu.be/UDFxhy1gF34
  بذلك أصبح كل شيء لديك جاهزا لتبدأ مع جت :smiley:
 
 #### لمزيد من تلاخيص الدروس [دليل مراجعة لمسار تطوير الويب الشامل](https://macdiscussions.udacity.com/t/full-stack-course-guide/174276?u=shadikahwaji)
+</div>
